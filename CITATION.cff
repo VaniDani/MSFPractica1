@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 1: Diseño de controladores'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Vania D.
+    family-names: Rivera
+    email: l22211720@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/VaniDani/MSFPractica1'
+repository-code: 'https://github.com/VaniDani/MSFPractica1'
+keywords:
+  - Circuito RLC
+  - Modelo matemático
+  - Circuito de segundo orden
+  - Simulaciones numéricas
+  - Controlador I
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-24'
